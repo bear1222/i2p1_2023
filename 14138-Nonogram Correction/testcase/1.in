@@ -1,0 +1,280 @@
+9
+5 10
+2 3 4
+3 1 1 3
+3 1 3 1
+3 1 1 2
+3 2 1 1
+2 1 1
+2 2 2
+2 1 1
+0
+2 1 1
+1 3
+3 1 1 1
+2 2 1
+1 4
+1 2
+oooxxxoooo
+xoxxxoxooo
+xxoxoooxoo
+xoxxxoxoox
+ooxxoxoxxx
+5 7
+2 1 2
+3 1 1 2
+2 2 3
+3 1 1 2
+3 3 1 1
+2 1 2
+2 2 1
+3 1 1 1
+2 2 1
+2 1 1
+1 3
+1 4
+oxxoxxx
+xoxoxoo
+xooxooo
+oxxoxoo
+oooxoxo
+13 9
+3 1 2 1
+3 2 1 1
+3 1 1 1
+3 3 1 1
+2 1 5
+3 1 1 1
+3 1 2 1
+2 3 1
+3 1 1 2
+3 1 2 1
+1 2
+2 1 3
+3 2 1 1
+3 1 2 1
+3 2 1 2
+4 2 1 1 1
+3 2 1 3
+4 2 1 2 3
+4 1 4 1 1
+3 1 2 2
+3 1 1 1
+3 4 3 1
+xoxxxooxo
+ooxxoxxxo
+xxoxoxxxo
+xoooxxoxo
+oxxooooox
+oxxxxoxxo
+xxoxooxxo
+xxxoooxxo
+oxoxxxoox
+xxxoxooxo
+xxxooxxxx
+xoxoooxxx
+xooxoxxox
+10 13
+4 2 1 1 5
+4 1 1 2 1
+3 1 1 1
+4 2 1 1 3
+4 1 1 1 2
+3 1 4 3
+4 3 1 1 1
+5 1 1 4 1 1
+3 4 2 1
+3 4 3 1
+4 1 1 1 1
+3 1 1 2
+1 7
+3 2 1 2
+3 1 1 5
+3 1 1 1
+3 1 5 1
+3 1 1 1
+3 1 2 2
+2 7 1
+4 2 1 1 1
+2 1 2
+2 2 3
+xoxxoxoxooooo
+xxxoxoxxxooxo
+oxxoxxxxxoxxx
+xooxoxoxoooxx
+oxoxxxoxooxxx
+xxoxooooxooox
+xxoooxoxxoxox
+oxoxooooxxoxo
+xooooxxxooxxo
+xooooxoooxxxo
+17 16
+4 1 1 2 6
+5 1 1 1 1 2
+4 1 2 4 2
+2 1 1
+4 4 1 1 1
+5 2 1 1 3 2
+3 3 4 1
+6 1 1 1 1 2 1
+6 2 1 1 1 2 1
+3 1 2 4
+5 2 5 3 1 1
+4 2 3 1 1
+5 1 1 3 2 1
+4 1 2 3 1
+6 1 1 1 1 1 1
+5 4 1 3 1 1
+4 1 2 1 2
+4 2 2 2 2
+5 2 2 1 4 1
+4 3 2 1 2
+5 2 1 1 3 1
+3 1 7 1
+3 2 3 1
+5 1 1 2 1 3
+5 1 1 1 3 1
+5 1 3 1 1 3
+5 1 1 6 2 1
+6 1 1 3 2 1 1
+4 3 4 2 1
+4 3 1 1 1
+6 1 1 1 1 1 1
+5 1 1 3 1 1
+5 1 1 1 1 3
+xoxoxxooxoooooox
+xoxoxoxxoxxooxxx
+xxoxooxxxooooxoo
+xxoxxxxxxxxxxoxx
+ooooxxxoxxoxxxxo
+ooxxoxoxoooxooxx
+xxoooxxooooxxxox
+oxoxoxoxooxxxxox
+ooxxoxoxxoxooxox
+xxoxooxxooooxxxx
+ooxoooooxoooxoxo
+ooxoooxoxxxoxxxx
+xoxoxxxoooxxooxo
+xoxxxooxxoooxxox
+oxxxoxoxoxxoxxxo
+ooooxxoxoooxxoxo
+xxoxxxxooxxoxxoo
+8 18
+5 1 2 1 2 1
+4 2 2 1 2
+6 1 2 1 1 2 2
+4 4 1 2 3
+4 2 2 5 3
+5 1 1 4 2 2
+3 1 5 5
+6 2 1 2 1 1 1
+1 1
+2 5 1
+3 1 2 1
+4 1 2 1 1
+1 3
+2 1 4
+2 4 3
+2 1 3
+2 1 4
+2 3 1
+1 2
+4 1 1 2 1
+1 3
+1 2
+2 1 2
+2 2 5
+2 4 1
+3 1 1 1
+xxxoxooxoxxooxxoxx
+xooxxxooxxxxoxxoox
+xoxooxoxxoxooxxxoo
+xooooxoxooxxxxooox
+xooxooxoooooxxxooo
+xoxoxooooxooxxooxx
+xxoxxoooooxxxooooo
+ooxoxooxxxxoxoxoxx
+13 10
+3 1 1 4
+3 5 1 1
+2 4 2
+2 3 4
+2 1 2
+2 2 2
+4 1 2 1 1
+4 2 1 1 1
+2 1 3
+3 1 1 1
+2 6 1
+3 2 1 3
+3 2 2 1
+4 1 1 2 1
+4 3 1 2 2
+2 7 3
+3 4 1 1
+4 2 1 2 2
+6 1 1 1 1 1 1
+4 1 1 3 3
+2 4 3
+4 1 2 1 2
+3 2 1 2
+oxoxxxoooo
+xoooooxoxo
+xooooxxoox
+xoooxoooox
+oxooxxxxxx
+xooxooxxxx
+oxooxxoxxo
+ooxxoxoxox
+xoxxoooxxx
+xxoxxxxoxo
+xxooooooxo
+xooxoxooox
+ooxxxooxox
+14 2
+1 1
+0
+1 1
+1 1
+1 1
+0
+1 2
+0
+0
+1 2
+1 1
+1 2
+1 1
+1 2
+4 2 1 1 3
+5 1 1 1 3 1
+xo
+xx
+ox
+ox
+xo
+xx
+oo
+xx
+xx
+oo
+xo
+oo
+ox
+oo
+3 9
+1 3
+3 1 2 1
+2 2 3
+1 1
+2 1 1
+2 1 1
+1 1
+0
+1 1
+1 2
+1 1
+1 2
+xoooxxxxx
+oxxxxooxo
+xooxxxooo
